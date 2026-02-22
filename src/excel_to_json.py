@@ -3,7 +3,7 @@ import pandas as pd
 import json
 
 # pasta de origem
-folder = r"C:\Users\pedro.pimentel\OneDrive - Corpay\Documentos\n8n"
+folder = r"your_path"
 
 # percorre todos os arquivos da pasta
 for file in os.listdir(folder):

@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Data (avoid uploading real datasets)
+data/*.xlsx
+data/*.json
+
+# OS / Editor
+.DS_Store
+.vscode/
