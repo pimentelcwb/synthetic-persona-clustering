@@ -1,0 +1,76 @@
+{
+  "rows": [
+    {
+      "id": "1",
+      "age": "34",
+      "city": "Sao Paulo",
+      "segment": "B2C",
+      "plan": "Premium",
+      "channel": "App",
+      "usage_frequency": "Daily",
+      "main_goal": "Save time in mobility payments",
+      "main_pain": "Lines and payment friction",
+      "tech_profile": "High"
+    },
+    {
+      "id": "2",
+      "age": "28",
+      "city": "Campinas",
+      "segment": "B2C",
+      "plan": "Basic",
+      "channel": "WhatsApp",
+      "usage_frequency": "Weekly",
+      "main_goal": "Pay tolls easily",
+      "main_pain": "Unclear charges and invoices",
+      "tech_profile": "Medium"
+    },
+    {
+      "id": "3",
+      "age": "45",
+      "city": "Jundiai",
+      "segment": "B2B",
+      "plan": "Fleet",
+      "channel": "Web",
+      "usage_frequency": "Daily",
+      "main_goal": "Control fleet expenses",
+      "main_pain": "Hard to reconcile transactions",
+      "tech_profile": "Medium"
+    },
+    {
+      "id": "4",
+      "age": "39",
+      "city": "Santos",
+      "segment": "B2B",
+      "plan": "Fleet",
+      "channel": "API",
+      "usage_frequency": "Daily",
+      "main_goal": "Automate payments and reporting",
+      "main_pain": "Manual processes and delays",
+      "tech_profile": "High"
+    },
+    {
+      "id": "5",
+      "age": "31",
+      "city": "Sao Paulo",
+      "segment": "B2C",
+      "plan": "Premium",
+      "channel": "App",
+      "usage_frequency": "Daily",
+      "main_goal": "Access VIP benefits",
+      "main_pain": "Benefits are hard to discover",
+      "tech_profile": "High"
+    },
+    {
+      "id": "6",
+      "age": "52",
+      "city": "Sorocaba",
+      "segment": "B2C",
+      "plan": "Basic",
+      "channel": "Call Center",
+      "usage_frequency": "Monthly",
+      "main_goal": "Get support to solve billing issues",
+      "main_pain": "Long wait times in support",
+      "tech_profile": "Low"
+    }
+  ]
+}
